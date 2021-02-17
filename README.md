@@ -1,2 +1,2 @@
-# ultrasmall-design
+# ultrasmall-photo
 Hello
